@@ -1,5 +1,5 @@
 ## Informações
-* **Disciplina:** Sistemas Distribuídos
+* **Disciplina:** Análise de Viabilidade de Negócios
 * **Dia:** Segunda-feira
 * **Período:** Noite
 
